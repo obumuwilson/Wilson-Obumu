@@ -1,0 +1,40 @@
+.header{
+    color: brown;
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    padding: bottom;
+    text-decoration: none;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline; block;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 25px;
+    background-color: gold;
+}
+nav ul li a:hover{
+    background-color: white;
+    color: chocolate;
+}
+ .head{
+    background-color: goldenrod;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif
+    font-size: large;
+    text-align: center;  
+    padding: top;  
+}
+.image{
+    height: 40%;
+    width: 40%;
+    background-color: goldenrod;
+    
+}
+caption{
+    background-color: blueviolet;
+    color: aqua;
+}
